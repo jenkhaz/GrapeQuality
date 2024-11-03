@@ -37,6 +37,8 @@ The dataset used in this project includes the following features:
 
 The target variable is `variety`, representing different types of grapes.
 
+Note that this dataset was taken from Kaggle.com.
+
 ## Installation
 
 1. Clone the repository:
